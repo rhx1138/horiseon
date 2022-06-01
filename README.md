@@ -11,8 +11,8 @@ Refactoring of the Horiseon website needed errors fixed.
 
 [Horiseon Website](https://rhx1138.github.io/horiseon/)
 
-![Horiseon screenshot one](/assets/images/horiseon-1.jpg=250x "Horiseon Refactored") 
-![Horiseon screenshot two](/assets/images/horiseon-2.jpg=250x "Horiseon Refactored")
+![Horiseon screenshot one](/assets/images/horiseon-1.jpg "Horiseon Refactored") 
+![Horiseon screenshot two](/assets/images/horiseon-2.jpg "Horiseon Refactored")
 
 
 
