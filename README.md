@@ -7,12 +7,12 @@ Refactoring of the Horiseon website needed errors fixed.
 * HTML was semantically updated and alt attributes were included.
 * CSS was organized and comments were added.
 * Changed the title.
-* Broken links fixed.
+* Broken links fixed. 
+
+[Horiseon Website](https://rhx1138.github.io/horiseon/)
 
 ![Alt text](/assets/images/horiseon-1.jpg "Horiseon Refactored")
 ![Alt text](/assets/images/horiseon-2.jpg "Horiseon Refactored")
-
-[Horiseon Website](https://rhx1138.github.io/horiseon/)
 
 
 
