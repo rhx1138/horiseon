@@ -1,5 +1,5 @@
 # Code Refactor Starter Code #
-## Challenge 1 Description ##
+## Website Refactoring Description ##
 
 Horiseon is an SEO Company focused on increasing clients' visability 
 Refactoring of the Horiseon website needed errors fixed. 
